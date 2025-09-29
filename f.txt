@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
+=======
+vagfg
+>>>>>>> 8c733983cfdcfaceb46c8ed15ba950c0f02d144b
 ghfdgh
